@@ -5,5 +5,6 @@ public class DemoImplements implements Demo{
     @Override
     public void print() {
         System.out.println("abc is : "+abc);
+        System.out.println("-------------------------------");
     }
 }
